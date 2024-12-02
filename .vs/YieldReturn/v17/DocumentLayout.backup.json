@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\YieldReturn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|YieldReturn||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9D30AD-408F-4E8D-ABEC-FC0555663678}|YieldReturn\\YieldReturn.csproj|C:\\Users\\User\\source\\repos\\YieldReturn\\yieldreturn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9D30AD-408F-4E8D-ABEC-FC0555663678}|YieldReturn\\YieldReturn.csproj|solutionrelative:yieldreturn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9D30AD-408F-4E8D-ABEC-FC0555663678}|YieldReturn\\YieldReturn.csproj|C:\\Users\\User\\source\\repos\\YieldReturn\\yieldreturn\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE9D30AD-408F-4E8D-ABEC-FC0555663678}|YieldReturn\\YieldReturn.csproj|solutionrelative:yieldreturn\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9D30AD-408F-4E8D-ABEC-FC0555663678}|YieldReturn\\YieldReturn.csproj|c:\\users\\user\\source\\repos\\yieldreturn\\yieldreturn\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YieldReturn",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\YieldReturn\\YieldReturn\\YieldReturn.csproj",
+              "RelativeDocumentMoniker": "YieldReturn\\YieldReturn.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\YieldReturn\\YieldReturn\\YieldReturn.csproj",
+              "RelativeToolTip": "YieldReturn\\YieldReturn.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-02T10:13:05.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\YieldReturn\\YieldReturn\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "YieldReturn\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\YieldReturn\\YieldReturn\\MainWindow.xaml.cs",
+              "RelativeToolTip": "YieldReturn\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:39:30.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\YieldReturn\\YieldReturn\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "YieldReturn\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\YieldReturn\\YieldReturn\\MainWindow.xaml",
+              "RelativeToolTip": "YieldReturn\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T08:39:31.121Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
