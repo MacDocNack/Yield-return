@@ -18,12 +18,7 @@ namespace YieldReturn
         {
             _progressBar.Minimum = start - 1;
             _progressBar.Maximum = end;
-            for (int i = start; i <= end; i++)
-            {
-                await Task.Delay(300);
-                _progressBar.Value = i;
-                yield return i;
-            }
+            
         }
 
         private async void Generate(object sender, RoutedEventArgs e)
@@ -39,3 +34,4 @@ namespace YieldReturn
     }
 
 }
+
