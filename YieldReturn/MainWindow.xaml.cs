@@ -8,7 +8,6 @@ namespace YieldReturn
 {
     public partial class MainWindow : Window
     {
-        private static ProgressBar _progressBar;
         public MainWindow()
         {
             InitializeComponent();
